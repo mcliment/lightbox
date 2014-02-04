@@ -58,6 +58,15 @@
   text-align: right;
 }
 
-.ekko-lightbox .modal-footer {
-  text-align: left;
+.ekko-lightbox .modal-header {
+  padding: 10px 5px;
+  border-bottom: 0;
+}
+
+.ekko-lightbox .modal-header .close {
+  margin-top: -8px;
+}
+
+.ekko-lightbox .modal-body {
+  padding: 0 20px 20px 20px;
 }
